@@ -17,7 +17,6 @@
  *          - Must name creator - Sophuwu
  *
  * Examples and Documentation:
- *     - https://sophuwu.site/rainbow.h
  *     - https://github.com/sophuwu300/rainbow.h
  *
  */
